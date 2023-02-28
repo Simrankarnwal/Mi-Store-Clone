@@ -10,15 +10,15 @@
     
 }
 
-.logo{
+/* .logo{
     background-color: orangered;
     width: 58px;
-    border-radius: 20px;
     overflow: hidden;
+    border-radius: 20px;
     cursor: pointer;
     position: relative;
     right: 2vmax;
-}
+} */
 
 #logoImage{
     transition:all 0.2s;
