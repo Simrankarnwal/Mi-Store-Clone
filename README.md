@@ -1,6 +1,6 @@
 # mi-store clone deployed link
 
-#https://simrankarnwal.netlify.app
+# https://simrankarnwal.netlify.app
 
 # Getting Started with Create React App
 
