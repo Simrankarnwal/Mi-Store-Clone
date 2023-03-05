@@ -11,4 +11,4 @@ const Offers = ({offer}) => {
   )
 }
 
-export default Offers;
+export default Offers

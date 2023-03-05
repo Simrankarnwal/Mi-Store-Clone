@@ -10,7 +10,7 @@
     
 }
 
-/* .logo{
+.logo{
     background-color: orangered;
     width: 58px;
     overflow: hidden;
@@ -18,7 +18,7 @@
     cursor: pointer;
     position: relative;
     right: 2vmax;
-} */
+}
 
 #logoImage{
     transition:all 0.2s;
